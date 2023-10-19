@@ -72,7 +72,7 @@ main {
 .divider {
   margin-top: auto;
   margin-bottom: 2rem;
-  background: url('./images/pattern-divider-desktop.svg');
+  background: url('pattern-divider-desktop.svg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
